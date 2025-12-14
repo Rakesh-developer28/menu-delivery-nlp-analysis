@@ -1,0 +1,2186 @@
+review_text,score,cleaned_review,menu_score,delivery_score,dominant_complaint
+Food was delicious and fresh,5,food delicious fresh,3,0,MENU_DOMINATED
+Delivery was late by 30 minutes and the food was cold,1,delivery late minutes food cold,1,3,DELIVERY_DOMINATED
+Driver was polite but the packaging was damaged,2,driver polite packaging damaged,0,2,DELIVERY_DOMINATED
+The chicken tikka masala was spicy and full of flavor,5,chicken tikka masala spicy full flavor,3,0,MENU_DOMINATED
+Order was wrong and took an hour to deliver,1,order wrong took hour deliver,0,1,DELIVERY_DOMINATED
+Great taste and good portions,4,great taste good portions,1,0,MENU_DOMINATED
+Food was cold when it arrived after an hour delay,2,food cold arrived hour delay,1,2,DELIVERY_DOMINATED
+The quality of the paneer was excellent,5,quality paneer excellent,2,0,MENU_DOMINATED
+The food was good but the delivery was very slow,3,food good delivery slow,1,2,DELIVERY_DOMINATED
+The delivery person was rude and the package was broken,1,delivery person rude package broken,0,2,DELIVERY_DOMINATED
+Worst taste I have ever experienced,1,worst taste ever experienced,1,0,MENU_DOMINATED
+Quick delivery and the pizza was hot,5,quick delivery pizza hot,1,1,NEUTRAL
+The dish was raw and not properly cooked,1,dish raw properly cooked,3,0,MENU_DOMINATED
+"Delivery speed was terrible, took 90 minutes",1,delivery speed terrible took minutes,0,1,DELIVERY_DOMINATED
+Fantastic menu options and fresh ingredients,5,fantastic menu options fresh ingredients,3,0,MENU_DOMINATED
+Food poisoning due to bad quality,1,food poisoning due bad quality,2,0,MENU_DOMINATED
+"Late delivery, cold food and wrong item delivered",1,late delivery cold food wrong item delivered,1,4,DELIVERY_DOMINATED
+The texture of the mutton was perfect,5,texture mutton perfect,1,0,MENU_DOMINATED
+Excellent value for money,5,excellent value money,0,0,NEUTRAL
+"Missing cutlery, minor issue with the side dish",3,missing cutlery minor issue side dish,1,0,MENU_DOMINATED
+"The order tracking was inaccurate, arrived unexpectedly early",4,order tracking inaccurate arrived unexpectedly early,0,1,DELIVERY_DOMINATED
+"Unprofessional driver, very poor communication",1,unprofessional driver poor communication,0,0,NEUTRAL
+Amazing food presentation and great flavor profile,5,amazing food presentation great flavor profile,2,0,MENU_DOMINATED
+The samosas were stale and the oil tasted old,1,samosas stale oil tasted old,0,0,NEUTRAL
+"Delivered to the wrong address, major inconvenience",1,delivered wrong address major inconvenience,0,1,DELIVERY_DOMINATED
+"Packaging was not secure, everything leaked out",2,packaging secure everything leaked,0,1,DELIVERY_DOMINATED
+The fish curry was authentic and delicious,5,fish curry authentic delicious,2,0,MENU_DOMINATED
+They forgot my entire beverage order,2,forgot entire beverage order,0,0,NEUTRAL
+"The wait time was unacceptable, almost two hours",1,wait time unacceptable almost two hours,0,2,DELIVERY_DOMINATED
+Taste was okay but the portion size was too small,3,taste okay portion size small,2,0,MENU_DOMINATED
+Driver called repeatedly for directions,2,driver called repeatedly directions,0,0,NEUTRAL
+The mutton biryani was cooked to perfection,5,mutton biryani cooked perfection,1,0,MENU_DOMINATED
+"Found a hair in my food, totally ruined the meal",1,found hair food totally ruined meal,1,0,MENU_DOMINATED
+"The estimated time was grossly inaccurate, arrived early",4,estimated time grossly inaccurate arrived early,0,1,DELIVERY_DOMINATED
+The service was quick and the meal was hot,5,service quick meal hot,0,0,NEUTRAL
+The pasta was overcooked and mushy,1,pasta overcooked mushy,0,0,NEUTRAL
+Delivery person was helpful and friendly,5,delivery person helpful friendly,0,1,DELIVERY_DOMINATED
+The chicken was chewy and seemed undercooked,2,chicken chewy seemed undercooked,1,0,MENU_DOMINATED
+"The food smelled bad, couldnt eat it",1,food smelled bad couldnt eat,1,0,MENU_DOMINATED
+Order was cancelled last minute without explanation,1,order cancelled last minute without explanation,0,1,DELIVERY_DOMINATED
+The butter naan was soft and fresh,5,butter naan soft fresh,1,0,MENU_DOMINATED
+Food arrived very late but was still hot,3,food arrived late still hot,1,1,NEUTRAL
+The salad was wilted and not fresh at all,1,salad wilted fresh,1,0,MENU_DOMINATED
+The packaging kept the soup perfectly warm,5,packaging kept soup perfectly warm,0,1,DELIVERY_DOMINATED
+The flavour lacked salt and tasted bland,2,flavour lacked salt tasted bland,0,0,NEUTRAL
+"A flawless delivery experience, very impressed",5,flawless delivery experience impressed,0,1,DELIVERY_DOMINATED
+"The kebab was burnt and dry, uneatable",1,kebab burnt dry uneatable,0,0,NEUTRAL
+"The rating system is misleading, this service is terrible",1,rating system misleading service terrible,0,0,NEUTRAL
+The food was great but the delivery was the issue,3,food great delivery issue,1,1,NEUTRAL
+"Super fast delivery, arrived in 15 minutes",5,super fast delivery arrived minutes,0,2,DELIVERY_DOMINATED
+The drink was warm when it should have been cold,2,drink warm cold,0,1,DELIVERY_DOMINATED
+"Poor food quality, tasted like leftovers",1,poor food quality tasted like leftovers,2,0,MENU_DOMINATED
+Driver was fast but forgot to give me change,3,driver fast forgot give change,0,1,DELIVERY_DOMINATED
+The soup had an odd chemical taste,1,soup odd chemical taste,1,0,MENU_DOMINATED
+Everything on the menu is excellent,5,everything menu excellent,1,0,MENU_DOMINATED
+"The delivery app crashed, causing confusion",2,delivery app crashed causing confusion,0,1,DELIVERY_DOMINATED
+"The curry was too oily, heavy on the stomach",2,curry oily heavy stomach,1,0,MENU_DOMINATED
+They gave me the wrong vegetarian item,1,gave wrong vegetarian item,0,1,DELIVERY_DOMINATED
+Prompt service and the food was delicious,5,prompt service food delicious,2,0,MENU_DOMINATED
+The pizza base was soggy from moisture,1,pizza base soggy moisture,1,0,MENU_DOMINATED
+The driver was courteous and found the place easily,5,driver courteous found place easily,0,0,NEUTRAL
+"The meal was exactly as described, wonderful taste",5,meal exactly described wonderful taste,1,0,MENU_DOMINATED
+"The food arrived upside down, big mess to clean",1,food arrived upside big mess clean,1,0,MENU_DOMINATED
+The quality control needs serious improvement,1,quality control needs serious improvement,1,0,MENU_DOMINATED
+The rice was sticky and clumped together,2,rice sticky clumped together,0,0,NEUTRAL
+Delivery was smooth and the driver was professional,5,delivery smooth driver professional,0,1,DELIVERY_DOMINATED
+"The spice level was perfect, great preparation",5,spice level perfect great preparation,0,0,NEUTRAL
+The restaurant messed up my special request,2,restaurant messed special request,0,0,NEUTRAL
+Took way too long to receive the small order,2,took way long receive small order,0,0,NEUTRAL
+"The dessert was divine, a perfect ending",5,dessert divine perfect ending,0,0,NEUTRAL
+The driver ignored my do not disturb note,2,driver ignored disturb note,0,0,NEUTRAL
+The packaging was eco-friendly and sturdy,5,packaging eco friendly sturdy,0,1,DELIVERY_DOMINATED
+The chicken pieces were gristly and tough,1,chicken pieces gristly tough,1,0,MENU_DOMINATED
+This is my go-to for quick and delicious meals,5,go quick delicious meals,1,0,MENU_DOMINATED
+"The meal portion was generous, felt like good value",4,meal portion generous felt like good value,1,0,MENU_DOMINATED
+The food was delivered on time but the wrong item was inside,2,food delivered time wrong item inside,1,2,DELIVERY_DOMINATED
+Absolutely terrible customer support after the order was delayed,1,absolutely terrible customer support order delayed,0,0,NEUTRAL
+The seasoning on the fries was amazing,5,seasoning fries amazing,0,0,NEUTRAL
+"The food was barely lukewarm, very disappointing",2,food barely lukewarm disappointing,1,0,MENU_DOMINATED
+The driver left the food outside in the rain,1,driver left food outside rain,1,0,MENU_DOMINATED
+The parotta was flaky and fresh,5,parotta flaky fresh,1,0,MENU_DOMINATED
+The delivery experience was smooth,5,delivery experience smooth,0,1,DELIVERY_DOMINATED
+"The taste was mediocre, nothing special",3,taste mediocre nothing special,1,0,MENU_DOMINATED
+"The container was cracked, some food leaked out",2,container cracked food leaked,1,0,MENU_DOMINATED
+Great food but the delivery boy was very slow,2,great food delivery boy slow,1,2,DELIVERY_DOMINATED
+"The spices were overpowering, ruined the dish",1,spices overpowering ruined dish,1,0,MENU_DOMINATED
+The estimated delivery time kept increasing,1,estimated delivery time kept increasing,0,2,DELIVERY_DOMINATED
+The paneer was rubbery and flavorless,1,paneer rubbery flavorless,1,0,MENU_DOMINATED
+The driver was very apologetic for the minor delay,4,driver apologetic minor delay,0,1,DELIVERY_DOMINATED
+The packaging was secure and heat-sealed,5,packaging secure heat sealed,0,1,DELIVERY_DOMINATED
+The portion was definitely not worth the price,2,portion definitely worth price,1,0,MENU_DOMINATED
+The biryani was slightly burnt at the bottom,2,biryani slightly burnt bottom,0,0,NEUTRAL
+"The food quality is inconsistent, hit or miss",3,food quality inconsistent hit miss,2,0,MENU_DOMINATED
+The courier was very fast and professional,5,courier fast professional,0,2,DELIVERY_DOMINATED
+"The sambar was too watery, lacked flavour",2,sambar watery lacked flavour,0,0,NEUTRAL
+"The meal was customized perfectly, five stars",5,meal customized perfectly five stars,0,0,NEUTRAL
+"They included complimentary dessert, nice touch",5,included complimentary dessert nice touch,0,0,NEUTRAL
+"The drink was spilled inside the bag, major fail",1,drink spilled inside bag major fail,0,1,DELIVERY_DOMINATED
+"The driver was lost for a long time, delayed the meal",1,driver lost long time delayed meal,0,1,DELIVERY_DOMINATED
+The burger bun was stale and dry,1,burger bun stale dry,1,0,MENU_DOMINATED
+"The fish was perfectly grilled, tender and juicy",5,fish perfectly grilled tender juicy,0,0,NEUTRAL
+"The delivery was 10 minutes early, excellent",5,delivery minutes early excellent,0,1,DELIVERY_DOMINATED
+"The side dish was sour, tasted fermented",1,side dish sour tasted fermented,1,0,MENU_DOMINATED
+The food was cold and the packaging was messy,1,food cold packaging messy,1,2,DELIVERY_DOMINATED
+The whole experience was seamless and enjoyable,5,whole experience seamless enjoyable,0,0,NEUTRAL
+The order took 45 minutes longer than promised,1,order took minutes longer promised,0,0,NEUTRAL
+The food was still hot when it arrived,5,food still hot arrived,1,0,MENU_DOMINATED
+The vegetable curry was rich and well-made,5,vegetable curry rich well made,1,0,MENU_DOMINATED
+"Driver was very polite, deserves a bonus",5,driver polite deserves bonus,0,0,NEUTRAL
+"The fries were soggy, lost their crunch",1,fries soggy lost crunch,0,0,NEUTRAL
+The restaurant needs better quality control,1,restaurant needs better quality control,1,0,MENU_DOMINATED
+The estimated time was very accurate,5,estimated time accurate,0,1,DELIVERY_DOMINATED
+The driver was unprofessional and rude,1,driver unprofessional rude,0,1,DELIVERY_DOMINATED
+The sauce was thin and flavorless,2,sauce thin flavorless,0,0,NEUTRAL
+The menu description was misleading,2,menu description misleading,1,0,MENU_DOMINATED
+The noodles were dry and sticky,1,noodles dry sticky,0,0,NEUTRAL
+Delivery was fast and secure,5,delivery fast secure,0,2,DELIVERY_DOMINATED
+The chicken was seasoned perfectly,5,chicken seasoned perfectly,1,0,MENU_DOMINATED
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The packaging was torn open,1,packaging torn open,0,1,DELIVERY_DOMINATED
+Taste was below average,2,taste average,1,0,MENU_DOMINATED
+Driver was polite and quick,5,driver polite quick,0,0,NEUTRAL
+Order took forever,1,order took forever,0,0,NEUTRAL
+Portion size was generous,4,portion size generous,1,0,MENU_DOMINATED
+Found a piece of plastic in the curry,1,found piece plastic curry,1,0,MENU_DOMINATED
+Delivery person was lost for 20 minutes,2,delivery person lost minutes,0,1,DELIVERY_DOMINATED
+Great value for the price,5,great value price,0,0,NEUTRAL
+Meal arrived hot and fresh,5,meal arrived hot fresh,1,0,MENU_DOMINATED
+The paneer was hard and chewy,2,paneer hard chewy,1,0,MENU_DOMINATED
+Delivery was delayed twice,1,delivery delayed twice,0,1,DELIVERY_DOMINATED
+Food was extremely salty,1,food extremely salty,2,0,MENU_DOMINATED
+Quick service and delicious food,5,quick service delicious food,2,0,MENU_DOMINATED
+The courier was rude on the phone,1,courier rude phone,0,2,DELIVERY_DOMINATED
+Everything was spilled in the bag,1,everything spilled bag,0,1,DELIVERY_DOMINATED
+Flavor was amazing,5,flavor amazing,1,0,MENU_DOMINATED
+Packaging was robust and sealed,5,packaging robust sealed,0,1,DELIVERY_DOMINATED
+Arrived 15 minutes early,5,arrived minutes early,0,0,NEUTRAL
+The biryani was dry,2,biryani dry,0,0,NEUTRAL
+Driver forgot the main dish,1,driver forgot main dish,1,0,MENU_DOMINATED
+Portions are tiny for the cost,2,portions tiny cost,0,0,NEUTRAL
+Taste of the dessert was stale,1,taste dessert stale,1,0,MENU_DOMINATED
+Delivery was fast but the food was cold,3,delivery fast food cold,1,3,DELIVERY_DOMINATED
+The sauce was excellent,5,sauce excellent,0,0,NEUTRAL
+Driver was helpful and kind,5,driver helpful kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu descriptions are accurate,5,menu descriptions accurate,1,0,MENU_DOMINATED
+The food presentation was lovely,5,food presentation lovely,1,0,MENU_DOMINATED
+The driver was lost and took a long detour,2,driver lost took long detour,0,0,NEUTRAL
+Quick and efficient service,5,quick efficient service,0,0,NEUTRAL
+"Order was incorrect, received someone elses meal",1,order incorrect received someone elses meal,0,0,NEUTRAL
+The rice was overcooked,2,rice overcooked,0,0,NEUTRAL
+The packaging leaked everywhere,1,packaging leaked everywhere,0,1,DELIVERY_DOMINATED
+"Good food, bad delivery time",3,good food bad delivery time,1,2,DELIVERY_DOMINATED
+The texture of the cake was perfect,5,texture cake perfect,1,0,MENU_DOMINATED
+Driver was fast and courteous,5,driver fast courteous,0,1,DELIVERY_DOMINATED
+The seasoning was just right,5,seasoning right,0,0,NEUTRAL
+Delivery took nearly two hours,1,delivery took nearly two hours,0,1,DELIVERY_DOMINATED
+The curry was watered down,2,curry watered,1,0,MENU_DOMINATED
+Found a hair in the dish,1,found hair dish,1,0,MENU_DOMINATED
+The drink was forgotten,2,drink forgotten,0,0,NEUTRAL
+Excellent quality ingredients,5,excellent quality ingredients,2,0,MENU_DOMINATED
+Delivery was seamless and prompt,5,delivery seamless prompt,0,1,DELIVERY_DOMINATED
+The food was delicious,5,food delicious,2,0,MENU_DOMINATED
+The driver was friendly,5,driver friendly,0,0,NEUTRAL
+The packaging was messy,2,packaging messy,0,1,DELIVERY_DOMINATED
+The food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+The delivery person was fast,5,delivery person fast,0,2,DELIVERY_DOMINATED
+The portion size was small,3,portion size small,1,0,MENU_DOMINATED
+The fries were soggy,1,fries soggy,0,0,NEUTRAL
+The driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
+Delivery was prompt,5,delivery prompt,0,1,DELIVERY_DOMINATED
+The food was fantastic,5,food fantastic,1,0,MENU_DOMINATED
+The driver was very friendly,5,driver friendly,0,0,NEUTRAL
+The container was messy,2,container messy,0,0,NEUTRAL
+Food was lukewarm,2,food lukewarm,1,0,MENU_DOMINATED
+Delivery person was quick,5,delivery person quick,0,1,DELIVERY_DOMINATED
+Portion was small,3,portion small,1,0,MENU_DOMINATED
+Fries were soggy,1,fries soggy,0,0,NEUTRAL
+Driver was late,2,driver late,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The biryani was perfect,5,biryani perfect,0,0,NEUTRAL
+Delivery was very fast,5,delivery fast,0,2,DELIVERY_DOMINATED
+The container was broken,1,container broken,0,0,NEUTRAL
+The curry tasted sour,1,curry tasted sour,1,0,MENU_DOMINATED
+Driver was rude,1,driver rude,0,1,DELIVERY_DOMINATED
+Excellent packaging,5,excellent packaging,0,1,DELIVERY_DOMINATED
+The taste was incredible,5,taste incredible,1,0,MENU_DOMINATED
+Delivery took too long,2,delivery took long,0,1,DELIVERY_DOMINATED
+The chicken was dry,1,chicken dry,1,0,MENU_DOMINATED
+The menu is diverse,5,menu diverse,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Order was cancelled by the driver,1,order cancelled driver,0,1,DELIVERY_DOMINATED
+The food quality was poor,1,food quality poor,2,0,MENU_DOMINATED
+Arrived on time,5,arrived time,0,1,DELIVERY_DOMINATED
+The portion was satisfying,4,portion satisfying,1,0,MENU_DOMINATED
+Taste was fantastic,5,taste fantastic,1,0,MENU_DOMINATED
+The packaging was weak,2,packaging weak,0,1,DELIVERY_DOMINATED
+The delivery was smooth,5,delivery smooth,0,1,DELIVERY_DOMINATED
+The noodles were sticky,1,noodles sticky,0,0,NEUTRAL
+The driver was lost,2,driver lost,0,0,NEUTRAL
+Food was cold upon arrival,2,food cold upon arrival,1,1,NEUTRAL
+Quick service,5,quick service,0,0,NEUTRAL
+The kebab was burnt,1,kebab burnt,0,0,NEUTRAL
+Driver was quick,5,driver quick,0,0,NEUTRAL
+The rice was undercooked,1,rice undercooked,0,0,NEUTRAL
+The quality was great,5,quality great,1,0,MENU_DOMINATED
+Delivery was delayed,2,delivery delayed,0,1,DELIVERY_DOMINATED
+Driver was courteous,5,driver courteous,0,0,NEUTRAL
+Order was incomplete,2,order incomplete,0,0,NEUTRAL
+The salad was fresh,5,salad fresh,1,0,MENU_DOMINATED
+The driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The burger was stale,1,burger stale,1,0,MENU_DOMINATED
+The package leaked,1,package leaked,0,0,NEUTRAL
+Slow delivery,2,slow delivery,0,2,DELIVERY_DOMINATED
+Driver was unprofessional,1,driver unprofessional,0,0,NEUTRAL
+Food was average,3,food average,1,0,MENU_DOMINATED
+Fast delivery,5,fast delivery,0,2,DELIVERY_DOMINATED
+The spices were perfect,5,spices perfect,0,0,NEUTRAL
+Driver was helpful,5,driver helpful,0,0,NEUTRAL
+The food was excellent,5,food excellent,1,0,MENU_DOMINATED
+The packaging was secure,5,packaging secure,0,1,DELIVERY_DOMINATED
+Order took an hour,2,order took hour,0,0,NEUTRAL
+The driver was lost,1,driver lost,0,0,NEUTRAL
+Food was cold and late,1,food cold late,1,2,DELIVERY_DOMINATED
+The taste was terrible,1,taste terrible,1,0,MENU_DOMINATED
+Quick and efficient,5,quick efficient,0,0,NEUTRAL
+The portion was huge,5,portion huge,1,0,MENU_DOMINATED
+Driver was polite,5,driver polite,0,0,NEUTRAL
+Food was spilled,1,food spilled,1,1,NEUTRAL
+The chicken was raw,1,chicken raw,2,0,MENU_DOMINATED
+Delivery was seamless,5,delivery seamless,0,1,DELIVERY_DOMINATED
+Taste was amazing,5,taste amazing,1,0,MENU_DOMINATED
+The packaging was robust,5,packaging robust,0,1,DELIVERY_DOMINATED
+Arrived early,5,arrived early,0,0,NEUTRAL
+The curry was too salty,1,curry salty,2,0,MENU_DOMINATED
+Driver forgot a dish,1,driver forgot dish,1,0,MENU_DOMINATED
+Portion was small,2,portion small,1,0,MENU_DOMINATED
+Food was cold despite fast delivery,3,food cold despite fast delivery,1,3,DELIVERY_DOMINATED
+The seasoning was great,5,seasoning great,0,0,NEUTRAL
+Driver was very kind,5,driver kind,0,0,NEUTRAL
+Food was late and cold,1,food late cold,1,2,DELIVERY_DOMINATED
+The menu is simple,4,menu simple,1,0,MENU_DOMINATED
+The presentation was nice,5,presentation nice,0,0,NEUTRAL
+Driver took a very long route,2,driver took long route,0,0,NEUTRAL
+The fish was smelly,1,fish smelly,0,0,NEUTRAL
+Service was fast,5,service fast,0,1,DELIVERY_DOMINATED
+Order was wrong,1,order wrong,0,1,DELIVERY_DOMINATED
+The rice was sticky,2,rice sticky,0,0,NEUTRAL
+Packaging leaked,1,packaging leaked,0,1,DELIVERY_DOMINATED
+"Good food, very slow delivery",3,good food slow delivery,1,2,DELIVERY_DOMINATED
+The cake was perfect,5,cake perfect,0,0,NEUTRAL
+Driver was fast,5,driver fast,0,1,DELIVERY_DOMINATED
+The spice level was ideal,5,spice level ideal,0,0,NEUTRAL
+Delivery was 90 minutes late,1,delivery minutes late,0,2,DELIVERY_DOMINATED
+The soup was watery,2,soup watery,0,0,NEUTRAL
+Found plastic in the food,1,found plastic food,1,0,MENU_DOMINATED
+The side dish was missing,2,side dish missing,1,0,MENU_DOMINATED
+Excellent ingredients,5,excellent ingredients,1,0,MENU_DOMINATED
